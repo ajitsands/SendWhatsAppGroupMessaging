@@ -77,8 +77,8 @@ class ComposerStaticInitdfa56774a02af9d193ea89e9a646a50b
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\Http\\Client\\' => 
         array (
@@ -134,8 +134,8 @@ class ComposerStaticInitdfa56774a02af9d193ea89e9a646a50b
         ),
         'Google\\' => 
         array (
-            0 => __DIR__ . '/..' . '/google/proto-client/src/Google',
-            1 => __DIR__ . '/..' . '/google/gax/src/generated/Google',
+            0 => __DIR__ . '/..' . '/google/gax/src/generated/Google',
+            1 => __DIR__ . '/..' . '/google/proto-client/src/Google',
         ),
         'GPBMetadata\\Google\\Protobuf\\' => 
         array (
@@ -143,8 +143,8 @@ class ComposerStaticInitdfa56774a02af9d193ea89e9a646a50b
         ),
         'GPBMetadata\\' => 
         array (
-            0 => __DIR__ . '/..' . '/google/proto-client/src/GPBMetadata',
-            1 => __DIR__ . '/..' . '/google/gax/src/generated/GPBMetadata',
+            0 => __DIR__ . '/..' . '/google/gax/src/generated/GPBMetadata',
+            1 => __DIR__ . '/..' . '/google/proto-client/src/GPBMetadata',
         ),
         'Firebase\\JWT\\' => 
         array (
